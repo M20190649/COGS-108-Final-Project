@@ -2,9 +2,7 @@
 
 Materials and outlines for the Final Project for COGS108.
 
-Final Project guidelines [here](https://github.com/COGS108/Projects/blob/master/FinalProject_Guidelines.pdf)
-
-
+* Final Project guidelines [here](/FinalProject_Guidelines.pdf)
 * [Proposal Document](https://docs.google.com/document/d/1AadpyI9179mXGpqHm3uqdZqGqV3ZhvGTYyqYaKI1HBM/edit?usp=sharing)
 * [Proposal Notebook](/project-proposal.ipynb)
 * [Final Project](final-project.ipynb)
