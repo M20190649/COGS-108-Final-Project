@@ -4,7 +4,7 @@ Materials and outlines for the Final Project for COGS108.
 
 * [Final Project guidelines](/FinalProject_Guidelines.pdf)
 * [Proposal Document](https://docs.google.com/document/d/1AadpyI9179mXGpqHm3uqdZqGqV3ZhvGTYyqYaKI1HBM/edit?usp=sharing)
-* [Proposal Notebook](/project-proposal.ipynb)
+* [Final Project Document](https://docs.google.com/document/d/1Hg0-DfeMyb7ZZTgLGqStAgofLjpFf_td_-wSOkyOMcA/edit?usp=sharing)
 * [Final Project](final-project.ipynb)
 
 ## Tentative Project Schedule
